@@ -1,2 +1,2 @@
-# Project2
-Project 2 VirtuBank1
+# virtubank
+Online Bank Application
